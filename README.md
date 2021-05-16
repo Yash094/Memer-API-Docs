@@ -1,3 +1,3 @@
 # Docs
-Documentation website by **Snowflake Studio** projects.
+Documentation website by [**Snowflake Studio**](https://github.com/DevSnowflake) projects.
 
