@@ -91,7 +91,7 @@ export default class Home extends Component {
                                     </li>
                                 </ul>
 
-                                <p>and growing!</p>
+                                <p className='para'>and growing!</p>
                             </div>
                         </div>
                     </div>
