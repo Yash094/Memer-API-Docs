@@ -4,7 +4,9 @@
   margin: 0;
   padding: 0;
 }
-
+.para {
+  margin-left: 40px;	
+}
 html {
   scroll-behavior: smooth;
 }
