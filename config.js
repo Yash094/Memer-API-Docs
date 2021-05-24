@@ -21,7 +21,7 @@ module.exports = {
         DESCRIPTION: "IMAGE COMMANDS API FOR DISCORD JS BOTS",
         IMAGE: "https://cdn.glitch.com/6d64d392-479b-491c-a9b2-87b57e2e9e25%2F2-2.png?v=1621171465556"
     },
-    DOCUMENTATION_SOURCE: "https://raw.githubusercontent.com/Yash094/memer-api/docs/doc.json",
+    DOCUMENTATION_SOURCE: "https://raw.githubusercontent.com/Yash094/memer-api/docs/beta.json",
     BRANCH: "master",
     PARAMS: {
         string: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String',
