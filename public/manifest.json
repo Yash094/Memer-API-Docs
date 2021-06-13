@@ -1,12 +1,12 @@
 {
-    "theme_color": "#f69435",
-    "background_color": "#f69435",
+    "theme_color": "#3e8afe",
+    "background_color": "#3e8afe",
     "scope": "/",
     "start_url": "/",
     "display": "standalone",
     "name": "Memer API",
     "short_name": "Memer API",
-    "description": "API",
+    "description": "Memer API is a powerful module that allows you to manipulate images very easily",
     "icons": [
         {
             "src": "/icon-192x192.png",
