@@ -1,4 +1,4 @@
-## WEBSITE BY [SNOWFLAKEE STUDIO](https://github.com/DevSnowflake)
+## WEBSITE BY [SNOWFLAKE STUDIO](https://github.com/DevSnowflake)
 
 <div align="center">
   <p>
