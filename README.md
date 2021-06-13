@@ -1,3 +1,5 @@
+## WEBSITE BY [SNOWFLAKEE STUDIO](https://github.com/DevSnowflake)
+
 <div align="center">
   <p>
     <img alt="npm" src="https://img.shields.io/npm/dt/memer-api">
