@@ -12,7 +12,9 @@ export default function Footer() {
                 <p className="text-center text-gray-300 mt-10">
                     © Memer Api - {new Date().getFullYear()}
                 </p>
-               
+                 <p className="text-center text-gray-300 mt-10">
+                    Website By - <a href="https://github.com/DevSnowflake">Snowflake Studio ❄</a>
+                </p>
             </div>
         </div>
     );
