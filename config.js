@@ -5,6 +5,7 @@ module.exports = {
         { name: "Documentation", path: "/docs", external: false },
         { name: "GitHub", path: "https://github.com/Yash094/memer-api", external: true },
         { name: "Discord", path: "https://discord.gg/emD44ZJaSA", external: true },
+        { name: "Hosting", path: "https://bittmax.de", external: true },
     ],
     DISCORD_INVITE: "https://discord.gg/emD44ZJaSA",
     GITHUB_LINK: "https://github.com/Yash094/memer-api",
