@@ -20,7 +20,7 @@ module.exports = {
         URL: "https://memer-api.js.org",
         TITLE: "Memer-Api",
         DESCRIPTION: "IMAGE COMMANDS API FOR DISCORD JS BOTS",
-        IMAGE: "https://cdn.glitch.com/6d64d392-479b-491c-a9b2-87b57e2e9e25%2F2-2.png?v=1621171465556"
+        IMAGE: "https://raw.githubusercontent.com/Yash094/memer-apidocs/main/public/icon-512x512.png"
     },
     DOCUMENTATION_SOURCE: "https://raw.githubusercontent.com/Yash094/memer-api/docs/beta.json",
     BRANCH: "master",
