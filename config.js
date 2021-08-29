@@ -39,7 +39,7 @@ const config = {
     INSTALL_COMMAND: "npm install memer-api",
     HOME_LOGO: {
         TYPE: "TEXT", // "IMAGE" | "TEXT"
-        VALUE: "https://github.com/Yash094/memer-api"
+        VALUE: "Memer API"
     },
     DESCRIPTION: {
         TITLE: "About",
