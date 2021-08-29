@@ -1,34 +1,28 @@
 module.exports = {
-  purge: ["./pages/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
-  darkMode: "class",
-  theme: {
-    extend: {
-      typography: {
-        DEFAULT: {
-          css: {
-            color: '#222',
-            a: {
-              color: '#3182ce',
-              'text-decoration': 'none',
-              '&:hover': {
-                color: '#3162ce',
-              },
-            },
-            'h1, h2, h3, h4, h5, h6, p, code, strong': {
-              color: '#ffffff',
-              '&:before,&:after': {
-                content: "''",
-              },
-            },
-          },
-        },
-      },
+    purge: {
+        enabled: true,
+        content: ["./public/index.html", "./src/**/*.svelte", "./src/app/Markdown.js"]
     },
-  },
-  variants: {
-    extend: {},
-  },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
-}
+    darkMode: "class",
+    theme: {
+        extend: {
+            colors: {
+                night: "#2f3136",
+                blurple: {
+                    200: "#EBEEFA",
+                    300: "#C3CDEF",
+                    400: "#9AABE5",
+                    500: "#7289DA",
+                    600: "#4A67CF",
+                    700: "#304EB6",
+                    800: "#253C8E",
+                    900: "#1B2B65"
+                }
+            }
+        },
+    },
+    variants: {
+        extend: {}
+    },
+    plugins: [require("@tailwindcss/forms")({ strategy: "class" }), require("@tailwindcss/typography")]
+};
