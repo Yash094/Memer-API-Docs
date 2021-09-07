@@ -2,7 +2,6 @@
     import { Router } from "@roxi/routify";
     import { routes } from "../.routify/routes";
     import ScrollUp from "./components/ScrollUp.svelte";
-    import Serviceworker from './Serviceworker.svelte';
     
     let showScrollUp = false;
 
@@ -19,7 +18,6 @@
         }
     });
 </script>
-<Serviceworker/>
 <Router {routes} />
 
 {#if showScrollUp}
