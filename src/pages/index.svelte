@@ -44,8 +44,7 @@
         <span id="__copy__tooltip__">
             <Tooltip text={copyError ? "Couldn't copy" : "Copied"} display={!tooltipHidden} />
         </span>
-         <p align="center"> 
-<a href="https://www.producthunt.com/posts/memer-api?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-memer-api" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=316947&theme=light" alt="Memer API - An API to manipulate images easily | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p>
+ 
         <code id="install_command" class="font-semibold text-lg p-4 bg-white dark:bg-night mx-auto text-gray-900 dark:text-white hover:text-gray-800 dark:hover:text-gray-200 rounded-md"
             >{config.INSTALL_COMMAND}
             <span class="cursor-pointer" on:click={copyInstallCommand}>
