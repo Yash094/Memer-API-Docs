@@ -20,16 +20,6 @@ const config = {
                 newPage: false
             },
             {
-                label: "Discord",
-                path: "https://memer-api.live/discord",
-                newPage: true
-            },
-            {
-                label: "Hosting",
-                path: "https://bittmax.de",
-                newPage: true
-            },
-            {
                 label: "GitHub",
                 path: "https://github.com/Yash094/memer-api",
                 newPage: true
