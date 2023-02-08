@@ -16,12 +16,7 @@ export default defineAppConfig({
       exclude: []
     },
     footer: {
-      iconLinks: [
-        {
-          href: 'https://nuxt.com',
-          icon: 'IconNuxtLabs'
-        }
-      ]
+
     }
   }
 })
