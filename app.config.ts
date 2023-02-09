@@ -7,7 +7,9 @@ export default defineAppConfig({
       github: 'Yash094/Memer-API',
     },
     github: {
-      root: 'content',
+      owner: "Yash094",
+      branch: "main",
+      repo: "Memer-API-Docs",
       edit: true,
     },
     aside: {
