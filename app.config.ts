@@ -23,7 +23,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         icon: 'IconDocus',
-        text: 'Created by avalynndev',
+        text: 'Documentation created by avalynndev',
         href: 'https://github.com/avalynndev',
       },
     }
