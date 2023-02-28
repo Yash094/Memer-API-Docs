@@ -1,15 +1,16 @@
-# Yukitoki
-A customizable website to view docs for your projects.
+# Memer-API-Docs
+The documentation repo for Memer-Api.
 
 # Built with
-- svelte
-- tailwindcss
+- Nuxt.js
+- Markdown
 
 # Features
 - Responsive
 - Light & Dark mode
-- Custom 404 page
 - Easy to setup
 
 # Live Preview
-**[https://yukitoki.netlify.app](https://yukitoki.netlify.app)** 
+A customizable website to view docs for your projects using Nuxi.
+<br/>
+Live Preview: **[https://docus.dev/](https://docus.dev/)** 
